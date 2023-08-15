@@ -1,0 +1,4 @@
+this is version 1 of flie .txt ok 
+we are learning git and github
+this is my first commit 
+
